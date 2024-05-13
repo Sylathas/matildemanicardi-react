@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/matildemanicardi-react/static/css/main.9fc109cd.css",
-    "main.js": "/matildemanicardi-react/static/js/main.20752ea4.js",
-    "static/js/453.ad6eb26e.chunk.js": "/matildemanicardi-react/static/js/453.ad6eb26e.chunk.js",
-    "static/media/logo.svg": "/matildemanicardi-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/matildemanicardi-react/index.html",
-    "main.9fc109cd.css.map": "/matildemanicardi-react/static/css/main.9fc109cd.css.map",
-    "main.20752ea4.js.map": "/matildemanicardi-react/static/js/main.20752ea4.js.map",
-    "453.ad6eb26e.chunk.js.map": "/matildemanicardi-react/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "./static/css/main.9fc109cd.css",
+    "main.js": "./static/js/main.7d24885f.js",
+    "static/js/453.ad6eb26e.chunk.js": "./static/js/453.ad6eb26e.chunk.js",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.9fc109cd.css.map": "./static/css/main.9fc109cd.css.map",
+    "main.7d24885f.js.map": "./static/js/main.7d24885f.js.map",
+    "453.ad6eb26e.chunk.js.map": "./static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fc109cd.css",
-    "static/js/main.20752ea4.js"
+    "static/js/main.7d24885f.js"
   ]
 }
